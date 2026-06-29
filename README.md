@@ -96,4 +96,4 @@ python sales_analysis.py
 
 
 **Supritha** — MBA (Business Analytics) | IFIM Business School, Bengaluru  
-🔗 [LinkedIn](#) | 💻 [GitHub](#)
+
