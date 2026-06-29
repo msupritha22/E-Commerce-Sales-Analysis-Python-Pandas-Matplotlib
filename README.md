@@ -92,7 +92,7 @@ python sales_analysis.py
 | `city` | Delivery city |
 | `order_status` | Delivered / Returned / Cancelled
 
-
+vi.Screenshoothttps://github.com/msupritha22/E-Commerce-Sales-Analysis-Python-Pandas-Matplotlib/upload/main
 
 **Supritha** — MBA (Business Analytics) | IFIM Business School, Bengaluru  
 🔗 [LinkedIn](#) | 💻 [GitHub](#)
