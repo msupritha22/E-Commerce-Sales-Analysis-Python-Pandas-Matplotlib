@@ -93,7 +93,7 @@ python sales_analysis.py
 | `order_status` | Delivered / Returned / Cancelled |
 
 ---
-
+https://github.com/msupritha22/E-Commerce-Sales-Analysis-Python-Pandas-Matplotlib/blob/main/dashboard.png
 
 **Supritha** — MBA (Business Analytics) | IFIM Business School, Bengaluru  
 🔗 [LinkedIn](#) | 💻 [GitHub](#)
