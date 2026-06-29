@@ -91,6 +91,8 @@ python sales_analysis.py
 | `unit_price` | Price per unit (₹) |
 | `city` | Delivery city |
 | `order_status` | Delivered / Returned / Cancelled
-https://github.com/msupritha22/E-Commerce-Sales-Analysis-Python-Pandas-Matplotlib/blob/main/sales_dashboard.png
+
+
+
 **Supritha** — MBA (Business Analytics) | IFIM Business School, Bengaluru  
 🔗 [LinkedIn](#) | 💻 [GitHub](#)
